@@ -4,8 +4,8 @@ Este aplicativo de lista de tarefas, desenvolvido em Flutter, permite aos usuár
 
 ## 🎥 Demonstração do App
 
-![Demonstração do app(video 1)](gif1.gif)
 ![Demonstração do app(video 2)](gif2.gif)
+![Demonstração do app(video 1)](gif1.gif)
 
 ## Funcionalidades
 
