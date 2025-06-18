@@ -65,9 +65,7 @@ Rode o projeto, nele você pode adicionar novas tarefas, marcá-las como conclu�
 
 A versão web desta aplicação está disponível em:
 
-[Link para a sua aplicação web deployada](https://SEU_USUARIO.github.io/SEU_REPOSITORIO/)
-
-Este deploy foi realizado utilizando [GitHub Pages](https://pages.github.com/).
+[Link para a sua aplicação web deployada](https://tranquil-faun-a4e59a.netlify.app)
 
 ## Contribuição
 
