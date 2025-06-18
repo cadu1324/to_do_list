@@ -1,13 +1,11 @@
 # ToDo List 
 
+Este aplicativo de lista de tarefas, desenvolvido em Flutter, permite aos usuários organizar suas atividades diárias de forma intuitiva e eficiente. Com ele, você pode adicionar, editar, marcar como concluídas e excluir tarefas, ajudando a manter seu dia a dia mais produtivo e organizado.
+
 ## 🎥 Demonstração do App
 
-▶️ [Demonstração do app(video 1)](gif1.gif)
-▶️ [Demonstração do app(video 2)](gif2.gif)
-
-
-
-Este aplicativo de lista de tarefas, desenvolvido em Flutter, permite aos usuários organizar suas atividades diárias de forma intuitiva e eficiente. Com ele, você pode adicionar, editar, marcar como concluídas e excluir tarefas, ajudando a manter seu dia a dia mais produtivo e organizado.
+![Demonstração do app(video 1)](gif1.gif)
+![Demonstração do app(video 2)](gif2.gif)
 
 ## Funcionalidades
 
